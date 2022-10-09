@@ -4,7 +4,7 @@ Have you ever wanted to play your favorite childhood card game but due to assign
 
 ## **Context:**
 
-A fun little assignment for my Introduction to Python Class. This project allowed me to get more comfortable with list methods, learn how to work with the random library and taught me the basics on creating a deck for future card games. I honestly didn't know what Old Maid was until this assignment but it was fun developing this simple card game.
+A fun little assignment for my Introduction to Python class. This project allowed me to get more comfortable with list methods, learn how to work with the random library and taught me the basics on creating a deck for future card games. I honestly didn't know what Old Maid was until this assignment but it was fun developing this simple card game.
 
 
 ## **Objective:**
