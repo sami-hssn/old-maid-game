@@ -1,6 +1,6 @@
 
 # old-maid-game
-_Have you ever wanted to play your favorite childhood card game but due to assignments and other commitments, none of your friends are available? Why not play Old Maid against a robot!_
+_Have you ever wanted to play your favorite childhood card game but due to assignments and other commitments, none of your friends are available? Why not play Old Maid against a bot!_
 
 
 ## **Objective:**
